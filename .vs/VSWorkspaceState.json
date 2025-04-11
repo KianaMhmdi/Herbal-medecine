@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.vscode",
+    "\\Local settings (.vs)",
+    "\\Local settings (.vs)\\HerbalMedicen",
+    "\\Local settings (.vs)\\HerbalMedicen\\FileContentIndex",
+    "\\Local settings (.vs)\\HerbalMedicen\\v17"
   ],
+  "SelectedNode": "\\Global settings (C:\\Users\\ADMIN\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_42b8bdf4\\OpenFolder)",
   "PreviewInSolutionExplorer": false
 }
